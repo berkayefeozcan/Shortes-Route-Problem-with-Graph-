@@ -1,7 +1,10 @@
 # Shortes-Route-Problem-with-Graph-
 This repository include 2rd project of 'Programming Lab-2' at Computer Engineering Kocaeli University
 
-![Test Image 1](demo.png)
+![Demo](demo.png)
+
+![calculatedShortestRoute](calculatedShortestRoute.jpg)
+Calculated Shortest Route
 
 
 ## Özetçe 
