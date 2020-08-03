@@ -1,6 +1,6 @@
 # Shortes-Route-Problem-with-Graph-
 This repository include 2rd project of 'Programming Lab-2' at Computer Engineering Kocaeli University
-
+![Test Image 1](demo.png)
 ## Özetçe 
 Bu projede gezgin kargo probleminin çözümlenmesi amaçlanmaktadır. Amaç kullanıcının tasarladığımız kullanıcı arayüzü ile girdiği şehirleri dolaşması ve başladığı noktaya mümkün olan en kısa yollardan geri dönmesidir. Biz de bu noktada mümkün olan en verimli algoritmalar üzerinde çalışmalar yaparak bu probleme çözüm bulduk. Kullandığımız algoritmalar ve detayları ilerleyen bölümlerde detaylıca ele alınacaktır. Tasarladığımız yazılım oldukça kullanıcı dostu bir arayüze sahip olup oldukça kolay anlaşılabilir. Ayrıca bu proje Java programlama dili kullanılmıştır.
 
